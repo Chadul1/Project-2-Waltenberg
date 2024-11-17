@@ -1,0 +1,14 @@
+{
+    "name": "chade/project-2-waltenberg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Backend\\" : "backend/"
+        }
+    },
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7",
+        "firebase/php-jwt": "^6.10"
+    }
+}

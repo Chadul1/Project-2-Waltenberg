@@ -1,0 +1,497 @@
+[2024-11-15 06:19:10] INFO: The user has submitted the login form.
+[2024-11-15 06:19:10] INFO: The database was contacted to search for username
+[2024-11-15 06:19:10] INFO: A name wasn't found in the find user function.
+[2024-11-15 06:19:10] WARNING: No username was found.
+[2024-11-15 06:19:10] INFO: The user has gone to the login page.
+[2024-11-15 06:19:17] INFO: The user has submitted the login form.
+[2024-11-15 06:19:17] INFO: The database was contacted to search for username
+[2024-11-15 06:19:17] INFO: A name was found in the find user function.
+[2024-11-15 06:22:11] INFO: The user has gone to the login page.
+[2024-11-15 06:22:17] INFO: The user has submitted the login form.
+[2024-11-15 06:22:17] INFO: The database was contacted to search for username
+[2024-11-15 06:22:17] INFO: A name was found in the find user function.
+[2024-11-15 06:22:17] INFO: The inputted password was invalid.
+[2024-11-15 06:22:17] INFO: The user has gone to the login page.
+[2024-11-15 06:22:38] INFO: The user has submitted the login form.
+[2024-11-15 06:22:38] INFO: The database was contacted to search for username
+[2024-11-15 06:22:38] INFO: A name was found in the find user function.
+[2024-11-15 06:22:38] INFO: The inputted password was invalid.
+[2024-11-15 06:22:39] INFO: The user has gone to the login page.
+[2024-11-15 06:23:05] INFO: The user has submitted the login form.
+[2024-11-15 06:23:05] INFO: The database was contacted to search for username
+[2024-11-15 06:23:05] INFO: A name wasn't found in the find user function.
+[2024-11-15 06:23:05] WARNING: No username was found.
+[2024-11-15 06:23:05] INFO: The user has gone to the login page.
+[2024-11-15 06:23:08] INFO: The user has submitted the login form.
+[2024-11-15 06:23:08] INFO: The database was contacted to search for username
+[2024-11-15 06:23:08] INFO: A name was found in the find user function.
+[2024-11-15 06:23:08] INFO: The inputted password was invalid.
+[2024-11-15 06:23:08] INFO: The user has gone to the login page.
+[2024-11-15 06:23:52] INFO: The user has submitted the login form.
+[2024-11-15 06:23:53] INFO: The database was contacted to search for username
+[2024-11-15 06:23:53] INFO: A name wasn't found in the find user function.
+[2024-11-15 06:23:53] WARNING: No username was found.
+[2024-11-15 06:23:53] INFO: The user has gone to the login page.
+[2024-11-15 06:24:17] INFO: The user has submitted the login form.
+[2024-11-15 06:24:17] INFO: The database was contacted to search for username
+[2024-11-15 06:24:17] INFO: A name was found in the find user function.
+[2024-11-15 06:24:17] INFO: The inputted password was invalid.
+[2024-11-15 06:24:18] INFO: The user has gone to the login page.
+[2024-11-15 06:25:06] INFO: The user has submitted the login form.
+[2024-11-15 06:25:06] INFO: The database was contacted to search for username
+[2024-11-15 06:25:06] INFO: A name wasn't found in the find user function.
+[2024-11-15 06:25:06] WARNING: No username was found.
+[2024-11-15 06:25:06] INFO: The user has gone to the login page.
+[2024-11-15 06:25:14] INFO: The user has submitted the login form.
+[2024-11-15 06:25:14] INFO: The database was contacted to search for username
+[2024-11-15 06:25:14] INFO: A name was found in the find user function.
+[2024-11-15 06:25:14] INFO: The inputted password was invalid.
+[2024-11-15 06:25:15] INFO: The user has gone to the login page.
+[2024-11-15 06:26:00] INFO: The user has submitted the login form.
+[2024-11-15 06:26:00] INFO: The database was contacted to search for username
+[2024-11-15 06:26:00] INFO: A name was found in the find user function.
+[2024-11-15 06:26:00] INFO: The inputted password was invalid.
+[2024-11-15 06:26:00] INFO: The user has gone to the login page.
+[2024-11-15 06:26:05] INFO: The user has gone to the Register page
+[2024-11-15 06:26:11] INFO: The user has submitted their account registration.
+[2024-11-15 06:27:59] INFO: The user has submitted their account registration.
+[2024-11-15 06:27:59] INFO: A name was found in the find user function.
+[2024-11-15 06:27:59] WARNING: The account name already existed.
+[2024-11-15 06:27:59] INFO: The user has gone to the Register page
+[2024-11-15 06:28:07] INFO: The user has submitted their account registration.
+[2024-11-15 06:28:07] INFO: A name was found in the find user function.
+[2024-11-15 06:28:07] WARNING: The account name already existed.
+[2024-11-15 06:28:07] INFO: The user has gone to the Register page
+[2024-11-15 06:28:20] INFO: The user has submitted their account registration.
+[2024-11-15 06:28:20] INFO: A name wasn't found in the find user function.
+[2024-11-15 06:28:20] INFO: The account was added.
+[2024-11-15 06:28:22] INFO: The user has submitted logged out.
+[2024-11-15 06:28:22] INFO: The session was reset.
+[2024-11-15 06:28:23] INFO: The user has gone to the login page.
+[2024-11-15 06:28:37] INFO: The user has submitted the login form.
+[2024-11-15 06:28:37] INFO: The database was contacted to search for username
+[2024-11-15 06:28:37] INFO: A name was found in the find user function.
+[2024-11-15 06:28:37] INFO: The inputted password was invalid.
+[2024-11-15 06:28:37] INFO: The user has gone to the login page.
+[2024-11-15 06:32:31] INFO: The user has gone to the login page.
+[2024-11-15 06:33:04] INFO: The user has gone to the login page.
+[2024-11-15 06:34:04] INFO: The user has submitted the login form.
+[2024-11-15 06:34:04] INFO: The database was contacted to search for username
+[2024-11-15 06:34:04] INFO: A name was found in the find user function.
+[2024-11-15 06:34:04] INFO: The inputted password was invalid.
+[2024-11-15 06:34:04] INFO: The user has gone to the login page.
+[2024-11-15 06:36:08] INFO: The user has gone to the login page.
+[2024-11-15 06:36:20] INFO: The user has submitted the login form.
+[2024-11-15 06:36:20] INFO: The database was contacted to search for username
+[2024-11-15 06:36:20] INFO: A name was found in the find user function.
+[2024-11-15 06:36:21] INFO: The password was valid and the user was logged in.
+[2024-11-15 06:36:23] INFO: The user has submitted logged out.
+[2024-11-15 06:36:23] INFO: The session was reset.
+[2024-11-16 01:19:39] INFO: The user has gone to the login page.
+[2024-11-16 01:19:53] INFO: The user has submitted the login form.
+[2024-11-16 01:19:53] INFO: The database was contacted to search for username
+[2024-11-16 01:19:53] INFO: A name was found in the find user function.
+[2024-11-16 01:19:53] INFO: The password was valid and the user was logged in.
+[2024-11-16 01:20:06] INFO: The user has submitted logged out.
+[2024-11-16 01:20:06] INFO: The session was reset.
+[2024-11-16 01:20:08] INFO: The user has gone to the Register page
+[2024-11-16 01:20:26] INFO: The user has submitted their account registration.
+[2024-11-16 01:20:26] INFO: A name wasn't found in the find user function.
+[2024-11-16 01:20:26] INFO: The account was added.
+[2024-11-16 01:20:28] INFO: The user has submitted logged out.
+[2024-11-16 01:20:28] INFO: The session was reset.
+[2024-11-16 06:12:47] INFO: The user has gone to the Register page
+[2024-11-16 06:12:49] INFO: The user has gone to the Settings.
+[2024-11-16 06:12:50] INFO: The user has gone to the login page.
+[2024-11-16 06:12:50] INFO: The user has gone to the Register page
+[2024-11-16 06:13:23] INFO: The user has gone to the Register page
+[2024-11-16 06:13:24] INFO: The user has gone to the login page.
+[2024-11-16 06:13:24] INFO: The user has gone to the Settings.
+[2024-11-16 06:13:25] INFO: The user has gone to the Register page
+[2024-11-16 06:13:26] INFO: The user has gone to the login page.
+[2024-11-16 06:13:27] INFO: The user has gone to the Settings.
+[2024-11-16 06:14:39] INFO: The user has gone to the login page.
+[2024-11-16 06:14:44] INFO: The user has submitted the login form.
+[2024-11-16 06:14:44] INFO: The database was contacted to search for username
+[2024-11-16 06:14:44] INFO: A name was found in the find user function.
+[2024-11-16 06:14:44] INFO: The password was valid and the user was logged in.
+[2024-11-16 06:14:47] INFO: The user has gone to the login page.
+[2024-11-16 06:15:23] INFO: The user has gone to the login page.
+[2024-11-16 06:15:29] INFO: The user has submitted the login form.
+[2024-11-16 06:15:29] INFO: The database was contacted to search for username
+[2024-11-16 06:15:29] INFO: A name was found in the find user function.
+[2024-11-16 06:15:29] INFO: The password was valid and the user was logged in.
+[2024-11-16 06:16:02] INFO: The user has started the game.
+[2024-11-16 06:16:04] INFO: The user has started the game.
+[2024-11-16 06:16:41] INFO: The user has submitted logged out.
+[2024-11-16 06:16:41] INFO: The session was reset.
+[2024-11-16 06:16:42] INFO: The user has gone to the login page.
+[2024-11-16 06:16:53] INFO: The user has submitted the login form.
+[2024-11-16 06:16:53] INFO: The database was contacted to search for username
+[2024-11-16 06:16:53] INFO: A name was found in the find user function.
+[2024-11-16 06:16:53] INFO: The password was valid and the user was logged in.
+[2024-11-16 06:16:56] INFO: The user has started the game.
+[2024-11-16 06:17:03] INFO: The user has submitted logged out.
+[2024-11-16 06:17:03] INFO: The session was reset.
+[2024-11-16 06:33:59] INFO: The user has gone to the Register page
+[2024-11-16 06:34:01] INFO: The user has gone to the Settings.
+[2024-11-16 06:34:05] INFO: The user has gone to the Settings.
+[2024-11-16 06:34:08] INFO: The user has gone to the login page.
+[2024-11-16 06:34:17] INFO: The user has submitted the login form.
+[2024-11-16 06:34:17] INFO: The database was contacted to search for username
+[2024-11-16 06:34:17] INFO: A name was found in the find user function.
+[2024-11-16 06:34:17] INFO: The password was valid and the user was logged in.
+[2024-11-16 06:34:19] INFO: The user has started the game.
+[2024-11-16 06:40:22] INFO: The user has submitted logged out.
+[2024-11-16 06:40:22] INFO: The session was reset.
+[2024-11-16 06:49:50] INFO: The user has gone to the Settings.
+[2024-11-16 06:49:50] INFO: The user has gone to the login page.
+[2024-11-16 06:49:51] INFO: The user has gone to the Register page
+[2024-11-16 07:08:43] INFO: The user has gone to the Register page
+[2024-11-16 07:08:43] INFO: The user has gone to the login page.
+[2024-11-16 07:08:43] INFO: The user has gone to the Settings.
+[2024-11-16 07:08:45] INFO: The user has gone to the Register page
+[2024-11-16 07:16:40] INFO: The user has gone to the Register page
+[2024-11-16 07:17:12] INFO: The user has gone to the Register page
+[2024-11-16 07:17:17] INFO: The user has submitted their account registration.
+[2024-11-16 07:17:17] INFO: A name was found in the find user function.
+[2024-11-16 07:17:17] WARNING: The account name already existed.
+[2024-11-16 07:17:17] INFO: The user has gone to the Register page
+[2024-11-16 07:17:21] INFO: The user has submitted their account registration.
+[2024-11-16 07:17:21] INFO: A name wasn't found in the find user function.
+[2024-11-16 07:17:21] INFO: The account was added.
+[2024-11-16 07:17:22] INFO: The user has gone to the Register page
+[2024-11-16 07:17:32] INFO: The user has gone to the Settings.
+[2024-11-16 07:17:32] INFO: The user has submitted logged out.
+[2024-11-16 07:17:32] INFO: The session was reset.
+[2024-11-16 07:17:38] INFO: The user has gone to the Settings.
+[2024-11-16 07:18:02] INFO: The user has gone to the Settings.
+[2024-11-16 07:18:17] INFO: The user has gone to the Settings.
+[2024-11-16 07:18:27] INFO: The user has gone to the Settings.
+[2024-11-16 07:18:38] INFO: The user has gone to the Settings.
+[2024-11-16 07:19:06] INFO: The user has gone to the Settings.
+[2024-11-16 07:19:08] INFO: The user has gone to the Settings.
+[2024-11-16 07:19:17] INFO: The user has gone to the Settings.
+[2024-11-16 07:19:20] INFO: The user has gone to the login page.
+[2024-11-16 07:19:22] INFO: The user has gone to the Register page
+[2024-11-16 07:19:24] INFO: The user has submitted their account registration.
+[2024-11-16 07:19:24] WARNING: The inputted username wasn't valid.
+[2024-11-16 07:19:24] WARNING: The inputted password wasn't valid.
+[2024-11-16 07:19:24] INFO: The user has gone to the Register page
+[2024-11-16 07:21:30] INFO: The user has gone to the Register page
+[2024-11-16 07:21:34] INFO: The user has submitted their account registration.
+[2024-11-16 07:21:34] WARNING: The inputted username wasn't valid.
+[2024-11-16 07:21:34] WARNING: The inputted password wasn't valid.
+[2024-11-16 07:21:34] INFO: The user has gone to the Register page
+[2024-11-16 07:21:36] INFO: The user has submitted their account registration.
+[2024-11-16 07:21:36] WARNING: The inputted password wasn't valid.
+[2024-11-16 07:21:36] INFO: The user has gone to the Register page
+[2024-11-16 07:21:50] INFO: The user has submitted their account registration.
+[2024-11-16 07:21:50] WARNING: The inputted password wasn't valid.
+[2024-11-16 07:21:50] INFO: The user has gone to the Register page
+[2024-11-16 07:22:03] INFO: The user has submitted their account registration.
+[2024-11-16 07:22:03] INFO: A name wasn't found in the find user function.
+[2024-11-16 07:22:03] INFO: The account was added.
+[2024-11-16 07:22:04] INFO: The user has started the game.
+[2024-11-16 07:22:33] INFO: The user has gone to the Settings.
+[2024-11-16 07:22:36] INFO: The user has submitted logged out.
+[2024-11-16 07:22:36] INFO: The session was reset.
+[2024-11-16 07:22:37] INFO: The user has gone to the login page.
+[2024-11-16 07:22:38] INFO: The user has gone to the Register page
+[2024-11-16 07:23:16] INFO: The user has submitted their account registration.
+[2024-11-16 07:23:16] WARNING: The inputted password wasn't valid.
+[2024-11-16 07:23:16] INFO: The user has gone to the Register page
+[2024-11-16 07:23:30] INFO: The user has submitted their account registration.
+[2024-11-16 07:23:30] INFO: A name was found in the find user function.
+[2024-11-16 07:23:30] WARNING: The account name already existed.
+[2024-11-16 07:23:30] INFO: The user has gone to the Register page
+[2024-11-16 07:28:52] INFO: The user has gone to the Register page
+[2024-11-16 07:28:58] INFO: The user has submitted their account registration.
+[2024-11-16 07:28:58] INFO: A name was found in the find user function.
+[2024-11-16 07:28:58] WARNING: The account name already existed.
+[2024-11-16 07:28:58] INFO: The user has gone to the Register page
+[2024-11-16 07:28:59] INFO: The user has gone to the login page.
+[2024-11-16 07:29:04] INFO: The user has submitted the login form.
+[2024-11-16 07:29:04] INFO: The database was contacted to search for username
+[2024-11-16 07:29:04] INFO: A name was found in the find user function.
+[2024-11-16 07:29:04] INFO: The password was valid and the user was logged in.
+[2024-11-16 07:59:55] INFO: The user has gone to the login page.
+[2024-11-16 07:59:56] INFO: The user has gone to the Register page
+[2024-11-16 07:59:57] INFO: The user has gone to the Settings.
+[2024-11-16 09:29:32] INFO: The user has gone to the login page.
+[2024-11-16 09:29:39] INFO: The user has submitted the login form.
+[2024-11-16 09:29:40] INFO: The database was contacted to search for username
+[2024-11-16 09:29:40] INFO: A name was found in the find user function.
+[2024-11-16 09:29:40] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:31:41] INFO: The user has gone to the Register page
+[2024-11-16 09:31:50] INFO: The user has gone to the login page.
+[2024-11-16 09:31:57] INFO: The user has submitted the login form.
+[2024-11-16 09:31:57] INFO: The database was contacted to search for username
+[2024-11-16 09:31:57] INFO: A name was found in the find user function.
+[2024-11-16 09:31:57] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:34:25] INFO: The user has gone to the login page.
+[2024-11-16 09:34:30] INFO: The user has submitted the login form.
+[2024-11-16 09:34:30] INFO: The database was contacted to search for username
+[2024-11-16 09:34:30] INFO: A name was found in the find user function.
+[2024-11-16 09:34:30] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:35:03] INFO: The user has gone to the login page.
+[2024-11-16 09:35:08] INFO: The user has submitted the login form.
+[2024-11-16 09:35:08] INFO: The database was contacted to search for username
+[2024-11-16 09:35:08] INFO: A name was found in the find user function.
+[2024-11-16 09:35:08] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:36:11] INFO: The user has submitted logged out.
+[2024-11-16 09:36:11] INFO: The session was reset.
+[2024-11-16 09:37:40] INFO: The user has gone to the login page.
+[2024-11-16 09:37:51] INFO: The user has submitted the login form.
+[2024-11-16 09:37:51] INFO: The database was contacted to search for username
+[2024-11-16 09:37:51] INFO: A name was found in the find user function.
+[2024-11-16 09:37:51] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:37:53] INFO: The user has submitted logged out.
+[2024-11-16 09:37:53] INFO: The session was reset.
+[2024-11-16 09:40:41] INFO: The user has gone to the Register page
+[2024-11-16 09:41:56] INFO: The user has gone to the login page.
+[2024-11-16 09:42:04] INFO: The user has submitted the login form.
+[2024-11-16 09:42:04] INFO: The database was contacted to search for username
+[2024-11-16 09:42:04] INFO: A name was found in the find user function.
+[2024-11-16 09:42:04] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:42:33] INFO: The user has submitted logged out.
+[2024-11-16 09:42:33] INFO: The session was reset.
+[2024-11-16 09:42:34] INFO: The user has gone to the login page.
+[2024-11-16 09:43:52] INFO: The user has gone to the login page.
+[2024-11-16 09:43:58] INFO: The user has submitted the login form.
+[2024-11-16 09:43:58] INFO: The database was contacted to search for username
+[2024-11-16 09:43:58] INFO: A name was found in the find user function.
+[2024-11-16 09:43:58] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:44:44] INFO: The user has started the game.
+[2024-11-16 09:45:43] INFO: The user has started the game.
+[2024-11-16 09:47:00] INFO: The user has started the game.
+[2024-11-16 09:48:10] INFO: The user has started the game.
+[2024-11-16 09:48:25] INFO: The user has started the game.
+[2024-11-16 09:49:36] INFO: The user has started the game.
+[2024-11-16 09:49:58] INFO: The user has started the game.
+[2024-11-16 09:50:07] INFO: The user has started the game.
+[2024-11-16 09:50:08] INFO: The user has submitted logged out.
+[2024-11-16 09:50:08] INFO: The session was reset.
+[2024-11-16 09:50:09] INFO: The user has gone to the login page.
+[2024-11-16 09:50:18] INFO: The user has submitted the login form.
+[2024-11-16 09:50:18] INFO: The database was contacted to search for username
+[2024-11-16 09:50:18] INFO: A name was found in the find user function.
+[2024-11-16 09:50:18] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:50:21] INFO: The user has started the game.
+[2024-11-16 09:51:02] INFO: The user has started the game.
+[2024-11-16 09:51:26] INFO: The user has started the game.
+[2024-11-16 09:51:36] INFO: The user has started the game.
+[2024-11-16 09:51:42] INFO: The user has started the game.
+[2024-11-16 09:51:45] INFO: The user has started the game.
+[2024-11-16 09:51:53] INFO: The user has started the game.
+[2024-11-16 09:51:53] INFO: The user has started the game.
+[2024-11-16 09:51:54] INFO: The user has started the game.
+[2024-11-16 09:51:54] INFO: The user has started the game.
+[2024-11-16 09:51:54] INFO: The user has started the game.
+[2024-11-16 09:51:54] INFO: The user has started the game.
+[2024-11-16 09:51:54] INFO: The user has started the game.
+[2024-11-16 09:52:06] INFO: The user has started the game.
+[2024-11-16 09:52:40] INFO: The user has started the game.
+[2024-11-16 09:54:28] INFO: The user has started the game.
+[2024-11-16 09:55:46] INFO: The user has submitted logged out.
+[2024-11-16 09:55:46] INFO: The session was reset.
+[2024-11-16 09:55:48] INFO: The user has gone to the login page.
+[2024-11-16 09:56:03] INFO: The user has gone to the Register page
+[2024-11-16 09:56:14] INFO: The user has submitted their account registration.
+[2024-11-16 09:56:14] INFO: A name wasn't found in the find user function.
+[2024-11-16 09:56:14] INFO: The account was added.
+[2024-11-16 09:56:15] INFO: The user has started the game.
+[2024-11-16 09:57:16] INFO: The user has started the game.
+[2024-11-16 09:58:09] INFO: The user has started the game.
+[2024-11-16 09:58:12] INFO: The user has started the game.
+[2024-11-16 09:58:22] INFO: The user has submitted logged out.
+[2024-11-16 09:58:22] INFO: The session was reset.
+[2024-11-16 09:58:23] INFO: The user has gone to the login page.
+[2024-11-16 09:58:30] INFO: The user has submitted the login form.
+[2024-11-16 09:58:30] INFO: The database was contacted to search for username
+[2024-11-16 09:58:30] INFO: A name was found in the find user function.
+[2024-11-16 09:58:30] INFO: The password was valid and the user was logged in.
+[2024-11-16 09:59:15] INFO: The user has started the game.
+[2024-11-16 09:59:20] INFO: The user has started the game.
+[2024-11-16 09:59:20] INFO: The user has started the game.
+[2024-11-16 09:59:20] INFO: The user has started the game.
+[2024-11-16 09:59:20] INFO: The user has started the game.
+[2024-11-16 09:59:20] INFO: The user has started the game.
+[2024-11-16 09:59:57] INFO: The user has started the game.
+[2024-11-16 09:59:59] INFO: The user has started the game.
+[2024-11-16 10:02:05] INFO: The user has submitted logged out.
+[2024-11-16 10:02:05] INFO: The session was reset.
+[2024-11-16 10:02:06] INFO: The user has gone to the login page.
+[2024-11-16 10:02:15] INFO: The user has submitted the login form.
+[2024-11-16 10:02:15] INFO: The database was contacted to search for username
+[2024-11-16 10:02:15] INFO: A name was found in the find user function.
+[2024-11-16 10:02:15] INFO: The password was valid and the user was logged in.
+[2024-11-16 10:02:17] INFO: The user has started the game.
+[2024-11-16 10:04:17] INFO: The user has started the game.
+[2024-11-16 10:04:27] INFO: The user has started the game.
+[2024-11-16 10:04:30] INFO: The user has submitted logged out.
+[2024-11-16 10:04:30] INFO: The session was reset.
+[2024-11-16 10:04:31] INFO: The user has gone to the login page.
+[2024-11-16 10:04:46] INFO: The user has submitted the login form.
+[2024-11-16 10:04:46] INFO: The database was contacted to search for username
+[2024-11-16 10:04:46] INFO: A name wasn't found in the find user function.
+[2024-11-16 10:04:46] WARNING: No username was found.
+[2024-11-16 10:04:47] INFO: The user has gone to the login page.
+[2024-11-16 10:04:49] INFO: The user has gone to the Register page
+[2024-11-16 10:04:59] INFO: The user has submitted their account registration.
+[2024-11-16 10:04:59] INFO: A name wasn't found in the find user function.
+[2024-11-16 10:05:00] INFO: The account was added.
+[2024-11-16 10:05:01] INFO: The user has started the game.
+[2024-11-16 10:05:12] INFO: The user has started the game.
+[2024-11-16 10:05:33] INFO: The user has started the game.
+[2024-11-16 10:05:58] INFO: The user has started the game.
+[2024-11-16 10:06:17] INFO: The user has started the game.
+[2024-11-16 10:06:17] INFO: The user has submitted logged out.
+[2024-11-16 10:06:17] INFO: The session was reset.
+[2024-11-16 10:06:18] INFO: The user has gone to the login page.
+[2024-11-16 10:06:32] INFO: The user has submitted the login form.
+[2024-11-16 10:06:32] INFO: The database was contacted to search for username
+[2024-11-16 10:06:32] INFO: A name was found in the find user function.
+[2024-11-16 10:06:32] INFO: The password was valid and the user was logged in.
+[2024-11-16 10:06:34] INFO: The user has started the game.
+[2024-11-16 10:06:56] INFO: The user has started the game.
+[2024-11-16 10:07:00] INFO: The user has started the game.
+[2024-11-16 10:08:54] INFO: The user has started the game.
+[2024-11-16 10:08:55] INFO: The user has submitted logged out.
+[2024-11-16 10:08:55] INFO: The session was reset.
+[2024-11-16 10:08:56] INFO: The user has gone to the login page.
+[2024-11-16 10:09:05] INFO: The user has submitted the login form.
+[2024-11-16 10:09:05] INFO: The database was contacted to search for username
+[2024-11-16 10:09:05] INFO: A name was found in the find user function.
+[2024-11-16 10:09:05] INFO: The password was valid and the user was logged in.
+[2024-11-16 10:09:07] INFO: The user has started the game.
+[2024-11-16 10:09:51] INFO: The user has started the game.
+[2024-11-16 10:09:54] INFO: The user has started the game.
+[2024-11-16 10:10:18] INFO: The user has started the game.
+[2024-11-16 10:10:31] INFO: The user has started the game.
+[2024-11-16 10:10:55] INFO: The user has started the game.
+[2024-11-16 10:11:02] INFO: The user has started the game.
+[2024-11-16 10:11:02] INFO: The user has started the game.
+[2024-11-16 10:11:08] INFO: The user has started the game.
+[2024-11-16 10:11:28] INFO: The user has started the game.
+[2024-11-16 10:11:30] INFO: The user has started the game.
+[2024-11-16 10:11:39] INFO: The user has started the game.
+[2024-11-16 10:11:39] INFO: The user has started the game.
+[2024-11-16 10:12:38] INFO: The user has gone to the login page.
+[2024-11-16 10:14:07] INFO: The user has started the game.
+[2024-11-16 10:14:11] INFO: The user has submitted logged out.
+[2024-11-16 10:14:11] INFO: The session was reset.
+[2024-11-16 10:14:12] INFO: The user has gone to the login page.
+[2024-11-16 10:14:18] INFO: The user has submitted the login form.
+[2024-11-16 10:14:18] INFO: The database was contacted to search for username
+[2024-11-16 10:14:18] INFO: A name was found in the find user function.
+[2024-11-16 10:14:18] INFO: The password was valid and the user was logged in.
+[2024-11-16 10:18:07] INFO: The user has submitted logged out.
+[2024-11-16 10:18:07] INFO: The session was reset.
+[2024-11-16 10:18:08] INFO: The user has gone to the login page.
+[2024-11-16 10:18:12] INFO: The user has gone to the login page.
+[2024-11-16 10:18:19] INFO: The user has submitted the login form.
+[2024-11-16 10:18:19] INFO: The database was contacted to search for username
+[2024-11-16 10:18:19] INFO: A name was found in the find user function.
+[2024-11-16 10:18:19] INFO: The password was valid and the user was logged in.
+[2024-11-16 10:20:08] INFO: The user has submitted logged out.
+[2024-11-16 10:20:08] INFO: The session was reset.
+[2024-11-16 10:20:09] INFO: The user has gone to the login page.
+[2024-11-16 10:20:14] INFO: The user has submitted the login form.
+[2024-11-16 10:20:14] INFO: The database was contacted to search for username
+[2024-11-16 10:20:14] INFO: A name was found in the find user function.
+[2024-11-16 10:20:14] INFO: The password was valid and the user was logged in.
+[2024-11-16 10:21:31] INFO: The user has submitted logged out.
+[2024-11-16 10:21:31] INFO: The session was reset.
+[2024-11-16 10:21:32] INFO: The user has gone to the login page.
+[2024-11-16 10:21:38] INFO: The user has submitted the login form.
+[2024-11-16 10:21:38] INFO: The database was contacted to search for username
+[2024-11-16 10:21:38] INFO: A name was found in the find user function.
+[2024-11-16 10:21:38] INFO: The password was valid and the user was logged in.
+[2024-11-16 10:23:40] INFO: The user has started the game.
+[2024-11-16 10:25:04] INFO: The user has started the game.
+[2024-11-16 10:25:36] INFO: The user has started the game.
+[2024-11-16 10:26:25] INFO: The user has started the game.
+[2024-11-16 10:26:30] INFO: The user has started the game.
+[2024-11-16 10:26:53] INFO: The user has started the game.
+[2024-11-16 10:27:01] INFO: The user has started the game.
+[2024-11-16 10:30:10] INFO: The user has started the game.
+[2024-11-16 10:31:22] INFO: The user has started the game.
+[2024-11-16 10:31:29] INFO: The user has submitted logged out.
+[2024-11-16 10:31:29] INFO: The session was reset.
+[2024-11-16 10:31:31] INFO: The user has gone to the login page.
+[2024-11-16 10:31:38] INFO: The user has submitted the login form.
+[2024-11-16 10:31:38] INFO: The database was contacted to search for username
+[2024-11-16 10:31:38] INFO: A name was found in the find user function.
+[2024-11-16 10:31:38] INFO: The inputted password was invalid.
+[2024-11-16 10:31:39] INFO: The user has gone to the login page.
+[2024-11-16 10:31:47] INFO: The user has submitted the login form.
+[2024-11-16 10:31:47] INFO: The database was contacted to search for username
+[2024-11-16 10:31:47] INFO: A name was found in the find user function.
+[2024-11-16 10:31:47] INFO: The password was valid and the user was logged in.
+[2024-11-16 10:31:48] INFO: The user has started the game.
+[2024-11-16 10:31:51] INFO: The user has submitted logged out.
+[2024-11-16 10:31:51] INFO: The session was reset.
+[2024-11-17 01:43:13] INFO: The user has arrived to the home page.
+[2024-11-17 01:43:14] INFO: The user has gone to the Register page
+[2024-11-17 01:44:01] INFO: The user has submitted their account registration.
+[2024-11-17 01:44:01] INFO: A name wasn't found in the find user function.
+[2024-11-17 01:44:01] INFO: The account was added.
+[2024-11-17 01:44:01] INFO: The user has arrived to the home page.
+[2024-11-17 01:44:02] INFO: The user has logged out.
+[2024-11-17 01:44:02] INFO: The session was reset.
+[2024-11-17 01:44:02] INFO: The user has arrived to the home page.
+[2024-11-17 01:44:03] INFO: The user has gone to the login page.
+[2024-11-17 01:44:11] INFO: The user has submitted the login form.
+[2024-11-17 01:44:11] INFO: The database was contacted to search for username
+[2024-11-17 01:44:11] INFO: A name wasn't found in the find user function.
+[2024-11-17 01:44:11] WARNING: No username was found.
+[2024-11-17 01:44:11] INFO: The user has gone to the login page.
+[2024-11-17 01:44:13] INFO: The user has gone to the Register page
+[2024-11-17 01:44:41] INFO: The user has submitted their account registration.
+[2024-11-17 01:44:41] INFO: A name wasn't found in the find user function.
+[2024-11-17 01:44:41] INFO: The account was added.
+[2024-11-17 01:44:41] INFO: The user has arrived to the home page.
+[2024-11-17 01:50:10] INFO: The user has logged out.
+[2024-11-17 01:50:10] INFO: The session was reset.
+[2024-11-17 01:50:10] INFO: The user has arrived to the home page.
+[2024-11-17 01:53:16] INFO: The user has gone to the login page.
+[2024-11-17 01:53:25] INFO: The user has submitted the login form.
+[2024-11-17 01:53:25] INFO: The database was contacted to search for username
+[2024-11-17 01:53:25] INFO: A name was found in the find user function.
+[2024-11-17 01:53:25] INFO: The password was valid and the user was logged in.
+[2024-11-17 01:53:25] INFO: The user has arrived to the home page.
+[2024-11-17 01:53:26] INFO: The user has started the game.
+[2024-11-17 01:54:05] INFO: The user has started the game.
+[2024-11-17 01:54:08] INFO: The user has started the game.
+[2024-11-17 01:55:23] INFO: The user has started the game.
+[2024-11-17 01:55:27] INFO: The user has started the game.
+[2024-11-17 01:55:27] INFO: The user has started the game.
+[2024-11-17 01:55:34] INFO: The user has started the game.
+[2024-11-17 01:56:25] INFO: The user has started the game.
+[2024-11-17 01:58:41] INFO: The user has started the game.
+[2024-11-17 01:59:45] INFO: The user has started the game.
+[2024-11-17 02:21:46] INFO: The user has arrived to the home page.
+[2024-11-17 02:21:47] INFO: The user has logged out.
+[2024-11-17 02:21:47] INFO: The session was reset.
+[2024-11-17 02:21:47] INFO: The user has arrived to the home page.
+[2024-11-17 02:21:48] INFO: The user has gone to the login page.
+[2024-11-17 02:21:56] INFO: The user has submitted the login form.
+[2024-11-17 02:21:56] INFO: The database was contacted to search for username
+[2024-11-17 02:21:56] INFO: A name was found in the find user function.
+[2024-11-17 02:21:56] INFO: The password was valid and the user was logged in.
+[2024-11-17 02:21:56] INFO: The user has arrived to the home page.
+[2024-11-17 02:21:58] INFO: The user has started the game.
+[2024-11-17 02:21:59] INFO: The user has logged out.
+[2024-11-17 02:21:59] INFO: The session was reset.
+[2024-11-17 02:21:59] INFO: The user has arrived to the home page.
+[2024-11-17 02:22:00] INFO: The user has gone to the login page.
+[2024-11-17 02:22:10] INFO: The user has submitted the login form.
+[2024-11-17 02:22:10] INFO: The database was contacted to search for username
+[2024-11-17 02:22:10] INFO: A name was found in the find user function.
+[2024-11-17 02:22:10] INFO: The password was valid and the user was logged in.
+[2024-11-17 02:22:10] INFO: The user has arrived to the home page.
+[2024-11-17 02:22:12] INFO: The user has started the game.
+[2024-11-17 02:22:14] INFO: The user has logged out.
+[2024-11-17 02:22:14] INFO: The session was reset.
+[2024-11-17 02:22:14] INFO: The user has arrived to the home page.

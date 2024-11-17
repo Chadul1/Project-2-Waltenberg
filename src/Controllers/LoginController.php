@@ -70,7 +70,7 @@ class LoginController {
             //Finds and returns the LOGIN JWT;
             if(isset($_SESSION['LOGIN'])) {
                 $user = $_SESSION['LOGIN'];
-                $user = JWT::decode($user, new Key('your-secret-key', 'HS256'));
+                $user = JWT::decode($user, new Key('My-secret-key-is-very-special-and-very-safe', 'HS256'));
 
                 //Verifies the password against the hash. If it works, it works and the user is logged in.
                 if (password_verify($password, $user->password)) {

@@ -41,7 +41,7 @@ class User {
         ];
 
         //Creates and returns the resulting JWT!
-        return JWT::encode($payload, 'your-secret-key', 'HS256');
+        return JWT::encode($payload, 'My-secret-key-is-very-special-and-very-safe', 'HS256');
     }
 
     //Checks if the username and password are valid before the JWT is created. This is for security sake.
